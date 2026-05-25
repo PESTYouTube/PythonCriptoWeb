@@ -1,0 +1,16 @@
+# IDE и настройки
+.idea/
+.vscode/
+
+# Бэкенд (Python)
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.env
+
+# Фронтенд (Node/Vite)
+pythonCriptoFront/node_modules/
+pythonCriptoFront/dist/
+pythonCriptoFront/.env.local
