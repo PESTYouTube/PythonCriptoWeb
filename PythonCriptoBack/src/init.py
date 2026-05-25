@@ -1,5 +1,5 @@
-from src.config import settings
-from src.http_client import CMCHTTPClient
+from PythonCriptoBack.src.config import settings
+from PythonCriptoBack.src.http_client import CMCHTTPClient
 
 
 cmc_client = CMCHTTPClient(

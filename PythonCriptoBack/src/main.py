@@ -1,7 +1,6 @@
 from fastapi import FastAPI
-from src.router import router as router_crypto
+from PythonCriptoBack.src import router as router_crypto
 from fastapi.middleware.cors import CORSMiddleware
-
 app = FastAPI()
 
 app.include_router(router_crypto)
