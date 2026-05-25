@@ -122,4 +122,4 @@ MIT license
 
 ## Автор
 
-PEST/Telegram — @PESTYOUTUBE.
+PEST/Telegram — @PESTYouTube.
